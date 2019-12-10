@@ -28,16 +28,23 @@ date_format = "Jan 2006"
   
   * worked on On-Boarding Automation using selenium.
   * worked on On-Boarding Automation using API.
+  * Working under the guidance of <a href = "https://www.linkedin.com/in/sunesh-madakkuni-8a6ab7b3/" target="_blank">Sunesh Madakkuni</a>.
 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Internship"
+  company = "Tata Global Beverages"
+  company_url = "http://www.tataglobalbeverages.com/?reload"
+  location = "Bangalore"
+  date_start = "2018-12-08"
+  date_end = "2019-01-03"
+  description = """
+  
+  * Worked on Factory Automation Using IOT.
+  * Working under the guidance of <a href = "https://www.linkedin.com/in/nikmathur/?originalSubdomain=in" target="_blank">Nikhil
+  Mathur</a>.
+  
+  """
 
 +++
