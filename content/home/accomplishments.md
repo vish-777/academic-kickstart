@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/H2UPCCVYUZDK?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
   date_start = "2019-01-22"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "This course examines how digital tools, such as the Internet, smartphones, and 3D printing, are revolutionizing the world of marketing by shifting the balance of power from firms to consumers"
   
 [[item]]
   organization = "DataCamp"
