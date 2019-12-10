@@ -14,6 +14,11 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "C++"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
