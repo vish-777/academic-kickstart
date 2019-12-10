@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "C++"
+  name = "C++/C"
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = ""
+  icon_pack = ""
+  name = "Java"
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
