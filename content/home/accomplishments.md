@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   title = "Marketing in a Digital World"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/H2UPCCVYUZDK?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-  date_start = ""
+  date_start = "2019-01-22"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
