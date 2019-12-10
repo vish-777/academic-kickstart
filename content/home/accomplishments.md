@@ -78,7 +78,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/AVN3WUGED3SS?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
   date_start = "2019-06-23"
   date_end = ""
-  description = "
-This course will begin with an exploration of the key differences between the Analog and the Digital and then examine four ways in which the Analog World has been affected by the Digital Revolution: Domination, Resistance, Synergy, and Transformation. This course will contain several examples of each of these concepts and explore their implications for both marketers and consumers. This course will also employ a variety of learning techniques, including video lectures, case studies, hands-on exercises, and interviews with leading marketing scholars."
+  description = "This course will begin with an exploration of the key differences between the Analog and the Digital and then examine four ways in which the Analog World has been affected by the Digital Revolution: Domination, Resistance, Synergy, and Transformation. This course will contain several examples of each of these concepts and explore their implications for both marketers and consumers. This course will also employ a variety of learning techniques, including video lectures, case studies, hands-on exercises, and interviews with leading marketing scholars."
 
 +++
