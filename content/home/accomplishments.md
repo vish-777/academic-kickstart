@@ -69,5 +69,16 @@ date_format = "Jan 2006"
   date_start = "2019-06-23"
   date_end = ""
   description = "The proliferation of digital technology gives businesses a diverse new set of tools to reach, engage, monitor, and respond to consumers to an unprecedented degree. The aggregated and voluminous digital data can also be leveraged to better target specific consumer segments. Following the Digital Marketing Channels: The Landscape, this course aims to give you a deeper understanding of core processes of planning a digital marketing campaign and the role of various digital channels in an integrated marketing communication"
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Marketing in an Analog World"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/AVN3WUGED3SS?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2019-06-23"
+  date_end = ""
+  description = "
+This course will begin with an exploration of the key differences between the Analog and the Digital and then examine four ways in which the Analog World has been affected by the Digital Revolution: Domination, Resistance, Synergy, and Transformation. This course will contain several examples of each of these concepts and explore their implications for both marketers and consumers. This course will also employ a variety of learning techniques, including video lectures, case studies, hands-on exercises, and interviews with leading marketing scholars."
 
 +++
