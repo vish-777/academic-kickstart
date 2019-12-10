@@ -39,5 +39,15 @@ date_format = "Jan 2006"
   date_start = "2019-01-23"
   date_end = ""
   description = "Learn the introductory theory and strategy behind marketing analytics that provides marketers with the foundation needed to apply data analytics to real-world challenges they confront daily in their professional lives."
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Digital Analytics for Marketing Professionals: Marketing Analytics in Practice"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/4WEU9GVYFTFM?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2019-01-23"
+  date_end = ""
+  description = "This course builds on the theory and foundations of marketing analytics and focuses on practical application by demystifying the use of data in marketing and helping you realize the power of visualizing data with artful use of numbers found in the digital space"
 
 +++
