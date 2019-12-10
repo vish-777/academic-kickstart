@@ -59,5 +59,15 @@ date_format = "Jan 2006"
   date_start = "2019-06-23"
   date_end = ""
   description = "learn about the impacts of digital technologies on marketing communication strategies and practices. By understanding the underlying processes of marketing communication and the core features of new media technologies, you can strategically select the appropriate channels to deliver the right marketing message to the right audience at the right moment."
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Digital Media and Marketing Strategies"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/PGDTUU33M26B?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+  date_start = "2019-06-23"
+  date_end = ""
+  description = "The proliferation of digital technology gives businesses a diverse new set of tools to reach, engage, monitor, and respond to consumers to an unprecedented degree. The aggregated and voluminous digital data can also be leveraged to better target specific consumer segments. Following the Digital Marketing Channels: The Landscape, this course aims to give you a deeper understanding of core processes of planning a digital marketing campaign and the role of various digital channels in an integrated marketing communication"
 
 +++
