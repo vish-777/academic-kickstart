@@ -25,6 +25,30 @@ subtitle = ""
   icon_pack = ""
   name = "Java"
   description = ""  
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "Selenium"
+  description = ""
+
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "HTML"
+  description = ""
+  
+[[feature]]
+  icon = ""
+  icon_pack = ""
+  name = "C#"
+  description = ""
   
 [[feature]]
   icon = "camera-retro"
