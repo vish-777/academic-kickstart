@@ -21,8 +21,8 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   certificate_url = "https://www.edx.org"
