@@ -42,4 +42,6 @@ But a new report on Friday in the Washington Post reveals that Facebook is consi
 
 Specifically, Facebook is considering a label on political ads that spells out that they haven't been fact-checked.
 
+![fb](https://user-images.githubusercontent.com/54065184/70607309-a538a580-1c17-11ea-80e8-4b96806e51ea.png)
+
 
