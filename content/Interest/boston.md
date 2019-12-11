@@ -1,5 +1,5 @@
 +++
-title = "BOSTON DYNAMICS’ ROBOTS ARE PREPARING TO LEAVE THE LAB — IS THE WORLD READY?”"
+title = "BOSTON DYNAMICS ROBOTS ARE PREPARING TO LEAVE THE LAB IS THE WORLD READY?"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -45,3 +45,5 @@ The sector is notoriously unforgiving, with startups and established companies o
 As well as making Spot into a salable robot, the company has also bought logistics startup Kinema Systems to pave the way into warehouse automation. Boston Dynamics is already selling robots it acquired with this purchase, giving it a foothold in the new industry.
 
 As part of this new focus, Raibert has become a familiar figure on the tech conference scene. Appearing onstage in his trademark Hawaiian shirts, he regularly wows audiences with tech demos, directing Spot to jump, trot, and dance, like a robot ringmaster.
+
+![boston](https://user-images.githubusercontent.com/54065184/70608848-44f73300-1c1a-11ea-8852-3b7f1f88e43d.png)
