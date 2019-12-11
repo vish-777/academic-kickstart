@@ -39,6 +39,6 @@ summary = ""
 An automated onboarding process is a sigh of relief to HR representatives & Reporting Managers. In reality, these new employee onboarding techniques benefit teams beyond the HR department; those in Finance and Operations, for example, can concentrate on more strategic tasks with the help of modern HR management systems.
 The start of a new employee’s journey in a company begins with onboarding. A large part of what determines the future success of new employees is how smoothly the onboarding process is performed. Additionally, each new employee represents risk and a temporary loss of productivity for the company, especially if they are replacing a more experienced former employee. In the past year, Millennials in the workplace changed jobs three times more than their older coworkers, representing a loss of $30.5 billion in turnover costs annually. Therefore, it is worth investing money to ensure that new employees stick around.
 Investing in a workflow automation software tool can help increase new hire retention rates while freeing up HR and IT resources for more important tasks.	
-"<a href = "https://www.theverge.com/2019/7/17/20697540/boston-dynamics-robots-commercial-real-world-business-spot-on-sale">more info</a>
+"<a href = "https://github.com/vish-777/internship-project">more info</a>
 
 
