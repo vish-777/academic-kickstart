@@ -1,5 +1,5 @@
 +++
-title = "YouTube CEO Susan Wojcicki denies using keyword blacklists: “We don’t have any list of blacklisted words”"
+title = "YouTube CEO Susan Wojcicki denies using keyword blacklists: â€œWe donâ€™t have any list of blacklisted wordsâ€"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -40,6 +40,9 @@ In September, a group of YouTubers released a blacklist of keywords that would i
 
 However, in a recent interview with YouTuber Juanpa Zurita, YouTube CEO Susan Wojcicki has denied that the company uses blacklists.."<a href = "https://reclaimthenet.org/susan-wojcicki-no-youtube-blacklists/">more info</a>
 
-Several former Google engineers, including Mike Wacker, have also said that YouTube has used blacklists to manipulate its search results via a file called “youtube_controversial_query_blacklist.”
+Several former Google engineers, including Mike Wacker, have also said that YouTube has used blacklists to manipulate its search results via a file called â€œyoutube_controversial_query_blacklist.â€
 
-According to Wacker, this file could be manually manipulated to switch to an alternate algorithm that essentially censors and suppresses politically “sensitive” topics.
+![youtube](https://user-images.githubusercontent.com/54065184/70608079-feed9f80-1c18-11ea-9020-6d51fef46d4a.png)
+
+
+According to Wacker, this file could be manually manipulated to switch to an alternate algorithm that essentially censors and suppresses politically â€œsensitiveâ€ topics.
