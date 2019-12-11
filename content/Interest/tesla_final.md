@@ -24,7 +24,7 @@ summary = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "tesla.png"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -40,3 +40,4 @@ Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on S
 
 The Cybertruck doesn’t appear to have basic safety features yet like side mirrors and window wipers, which presumably hampered Musk’s ability to drive without hitting things. The vehicle’s strange shape leaves some bizarre blindspots, to say the least.
 
+![tesla](https://user-images.githubusercontent.com/54065184/70606480-ffd10200-1c15-11ea-9008-938c141ad8a3.png)
