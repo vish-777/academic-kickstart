@@ -46,4 +46,4 @@ As well as making Spot into a salable robot, the company has also bought logisti
 
 As part of this new focus, Raibert has become a familiar figure on the tech conference scene. Appearing onstage in his trademark Hawaiian shirts, he regularly wows audiences with tech demos, directing Spot to jump, trot, and dance, like a robot ringmaster.
 
-![boston](https://user-images.githubusercontent.com/54065184/70608848-44f73300-1c1a-11ea-8852-3b7f1f88e43d.png)
+
