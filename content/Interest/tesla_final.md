@@ -40,4 +40,4 @@ Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on S
 
 The Cybertruck doesn’t appear to have basic safety features yet like side mirrors and window wipers, which presumably hampered Musk’s ability to drive without hitting things. The vehicle’s strange shape leaves some bizarre blindspots, to say the least.
 
-<img src="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc(1).png" alt="content/Interest/tesla.png">
+<img src="https://raw.githubusercontent.com/vish-777/academic-kickstart/blob/master/content/Interest/tesla.png" alt="https://raw.githubusercontent.com/vish-777/academic-kickstart/blob/master/content/Interest/tesla.png">
