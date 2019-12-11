@@ -41,4 +41,5 @@ The start of a new employee’s journey in a company begins with onboarding. A l
 Investing in a workflow automation software tool can help increase new hire retention rates while freeing up HR and IT resources for more important tasks.	
 "<a href = "https://github.com/vish-777/internship-project">more info</a>
 
+![soft](https://user-images.githubusercontent.com/54065184/70617462-14b79080-1c2a-11ea-9d7b-495a617dfa3d.png)
 
