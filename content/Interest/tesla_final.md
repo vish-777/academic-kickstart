@@ -36,8 +36,8 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on Saturday night when he showed up to a swanky restaurant in his new Tesla Cybertruck. But Musk’s night on the town included at least one embarrassing hiccup <a href = "https://gizmodo.com/elon-musk-hits-traffic-pylon-with-new-cybertruck-after-1840307783">more info</a>.
+Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on Saturday night when he showed up to a swanky restaurant in his new Tesla Cybertruck. But Muskâ€™s night on the town included at least one embarrassing hiccup <a href = "https://gizmodo.com/elon-musk-hits-traffic-pylon-with-new-cybertruck-after-1840307783">more info</a>.
 
-The Cybertruck doesn’t appear to have basic safety features yet like side mirrors and window wipers, which presumably hampered Musk’s ability to drive without hitting things. The vehicle’s strange shape leaves some bizarre blindspots, to say the least.
+The Cybertruck doesnâ€™t appear to have basic safety features yet like side mirrors and window wipers, which presumably hampered Muskâ€™s ability to drive without hitting things. The vehicleâ€™s strange shape leaves some bizarre blindspots, to say the least.
 
-<img src="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc(1).png" alt="https://raw.githubusercontent.com/dido1998/academic-kickstart/master/static/img/gsoc(1).png">
+<img src="https://github.com/vish-777/academic-kickstart/blob/master/content/Interest/tesla.png" alt="https://github.com/vish-777/academic-kickstart/blob/master/content/Interest/tesla.png">
