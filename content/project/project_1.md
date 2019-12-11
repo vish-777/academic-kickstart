@@ -1,5 +1,5 @@
 +++
-title = "BOSTON DYNAMICSí ROBOTS ARE PREPARING TO LEAVE THE LAB ó IS THE WORLD READY?î"
+title = "BOSTON DYNAMICS‚Äô ROBOTS ARE PREPARING TO LEAVE THE LAB ‚Äî IS THE WORLD READY?‚Äù"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -36,10 +36,12 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-But for all its engineering prowess, Boston Dynamics now faces its biggest challenge yet: turning its stable of robots into an actual business. After decades of kicking machines in parking lots, the company is set to launch its first ever commercial bot later this year: the quadrupedal Spot. Itís a crucial test for a company thatís spent decades pursuing long-sighted R&D. And more importantly, the success ó or failure ó of Spot will tell us a lot about our own robot future.."<a href = "https://www.theverge.com/2019/7/17/20697540/boston-dynamics-robots-commercial-real-world-business-spot-on-sale">more info</a>
+But for all its engineering prowess, Boston Dynamics now faces its biggest challenge yet: turning its stable of robots into an actual business. After decades of kicking machines in parking lots, the company is set to launch its first ever commercial bot later this year: the quadrupedal Spot. It‚Äôs a crucial test for a company that‚Äôs spent decades pursuing long-sighted R&D. And more importantly, the success ‚Äî or failure ‚Äî of Spot will tell us a lot about our own robot future.."<a href = "https://www.theverge.com/2019/7/17/20697540/boston-dynamics-robots-commercial-real-world-business-spot-on-sale">more info</a>
 
-The sector is notoriously unforgiving, with startups and established companies often collapsing with little warning. Just last year, three robotics companies folded in the space of a few months. In response, industry veteran James Kuffner of the Toyota Research Institute summarized the challenges of building robots on Facebook. ìIt requires significant funding, committed leadership, highly skilled staff, resources, and infrastructure, and an excellent product and market strategy,î wrote Kuffner. ìNot to mention flawless execution.î
+The sector is notoriously unforgiving, with startups and established companies often collapsing with little warning. Just last year, three robotics companies folded in the space of a few months. In response, industry veteran James Kuffner of the Toyota Research Institute summarized the challenges of building robots on Facebook. ‚ÄúIt requires significant funding, committed leadership, highly skilled staff, resources, and infrastructure, and an excellent product and market strategy,‚Äù wrote Kuffner. ‚ÄúNot to mention flawless execution.‚Äù
 
 As well as making Spot into a salable robot, the company has also bought logistics startup Kinema Systems to pave the way into warehouse automation. Boston Dynamics is already selling robots it acquired with this purchase, giving it a foothold in the new industry.
 
 As part of this new focus, Raibert has become a familiar figure on the tech conference scene. Appearing onstage in his trademark Hawaiian shirts, he regularly wows audiences with tech demos, directing Spot to jump, trot, and dance, like a robot ringmaster.
+
+![tata](https://user-images.githubusercontent.com/54065184/70615381-b5f01800-1c25-11ea-8407-c7d34405083e.png)
