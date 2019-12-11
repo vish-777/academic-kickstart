@@ -1,5 +1,5 @@
 +++
-title = "BOSTON DYNAMICS’ ROBOTS ARE PREPARING TO LEAVE THE LAB — IS THE WORLD READY?”"
+title = "Internet of Things (IoT): Security Challenges,Business Opportunities &Multilayered MethodFor End to End Data Communications"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -36,10 +36,11 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-But for all its engineering prowess, Boston Dynamics now faces its biggest challenge yet: turning its stable of robots into an actual business. After decades of kicking machines in parking lots, the company is set to launch its first ever commercial bot later this year: the quadrupedal Spot. It’s a crucial test for a company that’s spent decades pursuing long-sighted R&D. And more importantly, the success — or failure — of Spot will tell us a lot about our own robot future.."<a href = "https://www.theverge.com/2019/7/17/20697540/boston-dynamics-robots-commercial-real-world-business-spot-on-sale">more info</a>
+![iot](https://user-images.githubusercontent.com/54065184/70627519-cad9a500-1c3f-11ea-86ae-a3221b3ff85f.png)
 
-The sector is notoriously unforgiving, with startups and established companies often collapsing with little warning. Just last year, three robotics companies folded in the space of a few months. In response, industry veteran James Kuffner of the Toyota Research Institute summarized the challenges of building robots on Facebook. “It requires significant funding, committed leadership, highly skilled staff, resources, and infrastructure, and an excellent product and market strategy,” wrote Kuffner. “Not to mention flawless execution.”
 
-As well as making Spot into a salable robot, the company has also bought logistics startup Kinema Systems to pave the way into warehouse automation. Boston Dynamics is already selling robots it acquired with this purchase, giving it a foothold in the new industry.
+The Internet of Things (IoT) represents a diverse technology and usage with unprecedented business opportunities and risks. The Internet of Things is changing the dynamics of security industry & reshaping it. It allows data to be transferred seamlessly among physical devices to the Internet. The growth of number of intelligent devices will create a network rich with information that allows supply chains to assemble and communicate in new ways. The technology research firm Gartner predicts that there will be 26 billion installed units on the Internet of Things (IoT) by 2020.
 
-As part of this new focus, Raibert has become a familiar figure on the tech conference scene. Appearing onstage in his trademark Hawaiian shirts, he regularly wows audiences with tech demos, directing Spot to jump, trot, and dance, like a robot ringmaster.
+This project explains the concept of Internet of Things (IoT), its characteristics, explain security challenges, technology adoption trends and multi-layered method for securing data transport from a cellular connected Internet of Things device to a host through a cellular network."<a href = "https://github.com/vish-777/IOT-project">more info</a>
+
+
