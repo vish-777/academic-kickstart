@@ -24,7 +24,7 @@ summary = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "dsadks"
+  caption = "tesla.png"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -39,17 +39,4 @@ summary = ""
 Billionaire tech icon Elon Musk turned a lot of heads in Malibu, California on Saturday night when he showed up to a swanky restaurant in his new Tesla Cybertruck. But Musk’s night on the town included at least one embarrassing hiccup <a href = "https://gizmodo.com/elon-musk-hits-traffic-pylon-with-new-cybertruck-after-1840307783">more info</a>.
 
 The Cybertruck doesn’t appear to have basic safety features yet like side mirrors and window wipers, which presumably hampered Musk’s ability to drive without hitting things. The vehicle’s strange shape leaves some bizarre blindspots, to say the least.
-
-[image]
-  # Caption (optional)
-  caption = "tesla.png"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-
-  # Show image only in page previews?
-  preview_only = true
-
-# Set captions for image gallery.
 
