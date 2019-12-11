@@ -1,5 +1,5 @@
 +++
-title = "BOSTON DYNAMICS’ ROBOTS ARE PREPARING TO LEAVE THE LAB — IS THE WORLD READY?”"
+title = "FACTORY AUTOMATION IN TEA PLANT USING IOT"
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -36,12 +36,6 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-But for all its engineering prowess, Boston Dynamics now faces its biggest challenge yet: turning its stable of robots into an actual business. After decades of kicking machines in parking lots, the company is set to launch its first ever commercial bot later this year: the quadrupedal Spot. It’s a crucial test for a company that’s spent decades pursuing long-sighted R&D. And more importantly, the success — or failure — of Spot will tell us a lot about our own robot future.."<a href = "https://www.theverge.com/2019/7/17/20697540/boston-dynamics-robots-commercial-real-world-business-spot-on-sale">more info</a>
-
-The sector is notoriously unforgiving, with startups and established companies often collapsing with little warning. Just last year, three robotics companies folded in the space of a few months. In response, industry veteran James Kuffner of the Toyota Research Institute summarized the challenges of building robots on Facebook. “It requires significant funding, committed leadership, highly skilled staff, resources, and infrastructure, and an excellent product and market strategy,” wrote Kuffner. “Not to mention flawless execution.”
-
-As well as making Spot into a salable robot, the company has also bought logistics startup Kinema Systems to pave the way into warehouse automation. Boston Dynamics is already selling robots it acquired with this purchase, giving it a foothold in the new industry.
-
-As part of this new focus, Raibert has become a familiar figure on the tech conference scene. Appearing onstage in his trademark Hawaiian shirts, he regularly wows audiences with tech demos, directing Spot to jump, trot, and dance, like a robot ringmaster.
+This study proposes an approach to develop a simple, time efficient and generic approach to assess and monitor tea plantations in Northeast India using time series remote sensing images. The tea industry in India is in a consolidation phase with the plantations suffering from yield decline and quality. Tea is affected by a plethora of factors including age, environment and management. Therefore, monitoring and analyzing growth of tea plantations over space and time is a very important aspect. Remote sensing offers an efficient and reliable means of collecting the information required, in order to map tea type and acreage. Through the use of satellite imageries, information on the health of tea plantations can be extracted. The spectral reflectance of a tea field always varies with respect to the phenology, stage type and crop health and these could be well monitored and measured using multispectral sensors. Information from remotely sensed data can be integrated into GIS by combining with ancillary data which can provide insights to the cultural practices being implied into the cropping system. It will also help farmers identify areas within a field which are experiencing difficulties, so that they can apply, for instance, the correct type and amount of fertilizer, pesticide or herbicide. Using this approach, planters will not only improve the productivity of their land, but will also reduce farm input costs and minimize environmental impacts. Based on this, a stepwise approach has been designed to assess and monitor tea plantations in Northeast India.
 
 ![tata](https://user-images.githubusercontent.com/54065184/70615381-b5f01800-1c25-11ea-8407-c7d34405083e.png)
