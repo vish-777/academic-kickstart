@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Events"
-subtitle = "Coming Soon"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -38,7 +38,7 @@ subtitle = "Coming Soon"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,7 +47,7 @@ subtitle = "Coming Soon"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
