@@ -31,6 +31,8 @@ date_format = "Jan 2006"
   * Working under the guidance of <a href = "https://www.linkedin.com/in/sunesh-madakkuni-8a6ab7b3/" target="_blank">Sunesh Madakkuni</a>.
 
   """
+ ![ss](https://user-images.githubusercontent.com/54065184/70688539-77ad3400-1ccb-11ea-9cba-5ec657e67665.png)
+
 
 [[experience]]
   title = "Internship"
