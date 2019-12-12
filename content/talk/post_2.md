@@ -35,3 +35,5 @@ summary = ""
 # Set captions for image gallery.
 
 +++
+![farewell](https://user-images.githubusercontent.com/54065184/70696094-72a4b080-1cdc-11ea-939c-246e222e16f4.png)
+
