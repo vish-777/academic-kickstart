@@ -9,6 +9,6 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "hello"
+  image: "https://github.com/vish-777/academic-kickstart/blob/master/static/img/ss.png"
 ---
