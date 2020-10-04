@@ -17,18 +17,6 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "C++/C"
-  description = ""
-  
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  name = "Java"
-  description = ""  
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
   name = "Python"
   description = ""
 
@@ -53,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = ""
-  name = "CUDA"
+  name = "Tensorflow"
   description = ""
 
 +++
