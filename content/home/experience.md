@@ -40,7 +40,9 @@ date_format = "Jan 2006"
   date_end = "2019-01-03"
   description = """
   
-  * Worked on Factory Automation Using IOT.
+  * Exposure to industry relevant interpersonal and professional skills such as communication , team work, leadership skills and time management.
+  * worked on Factory Automation using IOT.
+  * worked on developing a simple, time efficient and generic approach to assess and monitor tea plantation.
   * Working under the guidance of <a href = "https://www.linkedin.com/in/nikmathur/?originalSubdomain=in" target="_blank">Nikhil
   Mathur</a>.
   
