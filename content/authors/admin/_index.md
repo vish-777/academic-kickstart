@@ -75,5 +75,5 @@ user_groups:
 ---
 I am a computer science student from Manipal Institute of Technology, India. I finished my btech in 2020. Some of the projects i worked on are Titanic survival prediction using Machine learning, Heart attack Prediction using ML, Face detection using OpenCV, Facial Expression Recognition in Keras, Eye Detection using OpenCV, Detecting COVID-19 with Chest X-Ray using PyTorch and much more which can be found on my github page.
 
-some of my interests are in Digital marketing, Software Engineering, Software Analyst and Artificial Intelligence. I have had a wide variety of experience in these fields . I have worked on projects like Employee Onboarding Automation , Internet of technologies in factory automation and security, parking using pathfinder and more.
+I have a strong passion in Data Science and Machine Learning and also a base in Digital Marketing & Business Development. Always believe that there will be a great development in areas such as Data Science and ML, and to create solutions to different problems faced by our world with these technologies. I have had a wide variety of experience in these fields . I have worked on projects like Employee Onboarding Automation , Internet of technologies in factory automation and security, parking using pathfinder and more.
 
