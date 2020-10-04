@@ -58,5 +58,20 @@ date_format = "Jan 2006"
   
   
   """
+  [[experience]]
+  title = "Internship"
+  company = "The Institution Of Electronics And Telecommunication Engineers"
+  company_url = "http://ieteblr.in/"
+  location = "Bangalore"
+  date_start = "2020-08-31"
+  date_end = "2020-09-27"
+  description = """
+  
+  * -Exposure on recent developments and emerging technologies in the area of electronics and telecommunications.
+    -we were taught the basics in Machine learning and Artificial Intelligence.
+    -worked on projects like Gradient Descent in MNIST dataset , Linear Regression on Boston-Housing-Dataset, Heart attack Prediction using ML and more using google colab and      jupyter notebook.
+  
+  
+  """
 
 +++
