@@ -1,5 +1,5 @@
 +++
-title = "successfully finished seventh Semester "
+title = "why are artificial intelligence bots voice female ? "
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = ""
+summary = "this is a blog written by me"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -36,5 +36,6 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-![hurray-meme](https://user-images.githubusercontent.com/54065184/70643031-bc988280-1c59-11ea-99b9-25a8e19d9563.png)
+Artificial intelligence is never cheap so it makes sense that IT industries or businesses are doing a whole lot they can to ensure customers engage with their computerized or virtual bots.
+Yes, you can change Siri or google assistance or amazon Alexa voice to a masculine male voice. It does not have anything to do with the fact that women are personal assistance. Click <a href="https://hydrabase.weebly.com/blog/why-are-artificial-intelligence-bots-voice-female">here</a> for more.
 
