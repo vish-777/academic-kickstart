@@ -25,6 +25,7 @@ interests:
 - Software Analyst 
 - Data Ananlyst
 - Project management
+- Machine learning
 
 education:
   courses:
