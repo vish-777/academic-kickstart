@@ -26,8 +26,10 @@ date_format = "Jan 2006"
   date_end = "2019-07-16"
   description = """
   
-  * worked on On-Boarding Automation using selenium.
-  * worked on On-Boarding Automation using API.
+  * Capability of documentation, report writing following ethical practices and demonstrate good presentation skills.
+  * the projects I worked on:
+    -Employee Onboarding using selenium(python)
+    -Employee on-boarding Automation using postman API.
   * Working under the guidance of <a href = "https://www.linkedin.com/in/sunesh-madakkuni-8a6ab7b3/" target="_blank">Sunesh Madakkuni</a>.
 
   """
