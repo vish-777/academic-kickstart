@@ -1,5 +1,5 @@
 +++
-title = "successfully finished seventh Semester "
+title = "working on heart attack prediction using ML "
 subtitle = ""
 
 date = 2018-11-08T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = ""
+summary = "plotting a graph and predciting with the help of data like age, anaemia, creatinine phosphokinase, diabetes, ejection fraction, high blood pressure, platelets, serum creatinine, serum sodium, sex, smoking time, death event."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -24,7 +24,7 @@ summary = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "dsadks"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -36,5 +36,5 @@ summary = ""
 # Set captions for image gallery.
 
 +++
-![hurray-meme](https://user-images.githubusercontent.com/54065184/70643031-bc988280-1c59-11ea-99b9-25a8e19d9563.png)
+
 
