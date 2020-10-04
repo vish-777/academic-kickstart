@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = "this is a blog written by me"
+summary = "Some of my interests are blog writing .this is a blog written by me which focuses on AI bots and future"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
