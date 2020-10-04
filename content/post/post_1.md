@@ -36,5 +36,5 @@ summary = "plotting a graph and predciting with the help of data like age, anaem
 # Set captions for image gallery.
 
 +++
-
+https://github.com/vish-777/Heart-attack-Prediction-using-ML
 
