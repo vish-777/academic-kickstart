@@ -89,15 +89,6 @@ date_format = "Jan 2006"
   date_start = "2020-04-23"
   date_end = ""
   description = "To explore and investigate visual representation through a range of image-making techniques; understand basic principles of working with shape, color and pattern; been exposed to the language and skills of typography; and understand and have applied the principles of composition and visual contrast. "
-  
-  [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org/"
-  title = "FIFA20 Data Exploration using Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/Z8JYE9WSJF6F"
-  date_start = "2020-08-23"
-  date_end = ""
-  description = "Using data Exploration techniques in order to uncover some initial patterns, insights and interesting points in your dateset. using a dateset consisting 5 CSV files, consisting of the data related to players in FIFA video game."
+
 
 +++
