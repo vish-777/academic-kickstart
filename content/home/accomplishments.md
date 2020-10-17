@@ -88,6 +88,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/SXT4369X3LV9"
   date_start = "2020-04-23"
   date_end = ""
-  description = "sdvs "
+  description = "To explore and investigate visual representation through a range of image-making techniques; understand basic principles of working with shape, color and pattern; been exposed to the language and skills of typography; and understand and have applied the principles of composition and visual contrast. "
 
 +++
