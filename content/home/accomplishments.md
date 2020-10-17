@@ -96,7 +96,7 @@ date_format = "Jan 2006"
   title = "FIFA20 Data Exploration using Python"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/Z8JYE9WSJF6F"
-  date_start = "2020-04-23"
+  date_start = "2020-08-23"
   date_end = ""
   description = "Using data Exploration techniques in order to uncover some initial patterns, insights and interesting points in your dateset. using a dateset consisting 5 CSV files, consisting of the data related to players in FIFA video game."
 
