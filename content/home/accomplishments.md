@@ -80,4 +80,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "This course will begin with an exploration of the key differences between the Analog and the Digital and then examine four ways in which the Analog World has been affected by the Digital Revolution: Domination, Resistance, Synergy, and Transformation. This course will contain several examples of each of these concepts and explore their implications for both marketers and consumers. "
 
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Fundamentals of Graphic Design"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/SXT4369X3LV9"
+  date_start = "2020-04-23"
+  date_end = ""
+  description = "sdvs "
+
 +++
